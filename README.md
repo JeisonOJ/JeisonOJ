@@ -30,6 +30,6 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-[![LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jeison-ortiz-jaramillo-639773219/)
+[![LinkedIn](https://www.linkedin.com/in/yourlinkedin)](https://www.linkedin.com/in/jeison-ortiz-jaramillo-639773219/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://x.com/JeisonOJ)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jeisonortiz1516@gmail.com)
