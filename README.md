@@ -1,6 +1,7 @@
 # Hi there, I'm JeisonOJ 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JeisonOJ)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JeisonOJ)  [![GitHub iampawan](https://img.shields.io/github/followers/JeisonOJ?label=follow&style=social)](https://github.com/JeisonOJ)
+
 
 ## About Me
 
